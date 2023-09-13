@@ -10,6 +10,7 @@ public class lab2 {
         System.out.println("Ethar Mohammad");
         System.out.println("Lama Ibrahim");
         System.out.println("Reem Alhussaini");
+         System.out.println("Lama Alamri"); 
     }
     
 }

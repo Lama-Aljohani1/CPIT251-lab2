@@ -8,6 +8,8 @@ public class lab2 {
         // TODO code application logic here
         System.out.println("Hi");
         System.out.println("Ethar Mohammad");
+        System.out.println("Lama Ibrahim");
+        
     }
     
 }
